@@ -1,6 +1,6 @@
 # Taller de automatización de pruebas con Selenium, Python, Cucumber, Gherkin, y el patrón Page Object Model (POM).
 
-# Paso 1: Instalación de Herramientas
+# Instalación de Herramientas
 
 ## Antes de iniciar, asegúrate de tener instaladas las siguientes herramientas:
 	- Python (https://www.python.org/downloads/) 
