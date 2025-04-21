@@ -13,4 +13,6 @@
 		- Cucumber para casos de prueba con Gherkin (Esto ya viene con Behave.)
 
 ## Para correr los tests, usa el comando:
-	- behave features/login.feature (debes correrlo en la terminal o consola de comandos desde la raíz de tu proyecto.)
+	debes correrlo en la terminal o consola de comandos desde la raíz de tu proyecto.
+	- behave features/login.feature 
+	- behave features/shopping_cart.feature 
