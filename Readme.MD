@@ -119,3 +119,39 @@ Instalación rápida:
 ```bash
 pip install selenium behave
 ```
+
+# 🧑‍🏫 Ejercicios para el Taller de Pruebas Automatizadas con Selenium
+
+A continuación se presentan dos ejercicios prácticos que los estudiantes deberán realizar durante el taller. Estos están diseñados para reforzar conceptos clave como la interacción con elementos web, localización por selectores y verificación de resultados.
+
+---
+
+## 🧪 Ejercicio 1: Verificar el título de un artículo en Wikipedia
+
+### 💡 Sitio:
+[https://es.wikipedia.org](https://es.wikipedia.org)
+
+### 🎯 Escenario:
+Buscar el término **"Python (lenguaje de programación)"** y verificar que el título del artículo mostrado sea correcto.
+
+### ✅ Requisitos que practican:
+- Búsqueda
+- Localización por nombre y clase
+- Verificación de texto
+- Flujo simple sin login
+
+---
+
+## 🧪 Ejercicio 2: Verificar que un producto se puede buscar en MercadoLibre
+
+### 💡 Sitio:
+[https://www.mercadolibre.com.co](https://www.mercadolibre.com.co)
+
+### 🎯 Escenario:
+Buscar **“iPhone 13”** y verificar que aparecen resultados que contienen el texto **“iPhone”**.
+
+### ✅ Requisitos que practican:
+- Búsqueda
+- Localización por clase o xpath
+- Verificación parcial de texto
+
