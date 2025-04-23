@@ -1,8 +1,8 @@
 # Taller de automatización de pruebas con Selenium, Python, Cucumber, Gherkin, y el patrón Page Object Model (POM).
 
-# Paso 1: Instalación de Herramientas
+## Instalación de Herramientas
 
-## Antes de iniciar, asegúrate de tener instaladas las siguientes herramientas:
+### Antes de iniciar, asegúrate de tener instaladas las siguientes herramientas:
 	- Python (https://www.python.org/downloads/) 
 	- Selenium (pip install selenium)
 	- WebDriver para el navegador (Chrome o Firefox)
@@ -12,7 +12,7 @@
 		- Behave para Cucumber con Python (pip install behave)
 		- Cucumber para casos de prueba con Gherkin (Esto ya viene con Behave.)
 
-## Para correr los tests, usa el comando:
+### Para correr los tests, usa el comando:
 	debes correrlo en la terminal o consola de comandos desde la raíz de tu proyecto.
 	- behave features/login.feature 
 	- behave features/shopping_cart.feature 
