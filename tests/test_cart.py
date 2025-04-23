@@ -1,4 +1,5 @@
 import unittest
+import time
 from selenium import webdriver
 from pages.login_page import LoginPage
 from pages.inventory_page import InventoryPage
@@ -21,6 +22,7 @@ class TestAddToCart(unittest.TestCase):
         """
         self.inventory_page.add_product_to_cart("Sauce Labs Backpack")
         cart_count = self.inventory_page.get_cart_count()
+        time.sleep(3)
         self.assertEqual(cart_count, "1", "El número de productos en el carrito no es correcto.")
 
     def tearDown(self):
