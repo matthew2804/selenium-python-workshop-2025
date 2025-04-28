@@ -2,6 +2,8 @@
 
 ## Instalación de Herramientas
 
+#MATTHEW LANE Y SEBASTIAN COSME 
+
 ### Antes de iniciar, asegúrate de tener instaladas las siguientes herramientas:
 	- Python (https://www.python.org/downloads/) 
 	- Selenium (pip install selenium)
